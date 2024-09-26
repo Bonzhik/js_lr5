@@ -1,0 +1,21 @@
+{
+  "name": "super_puper_calculator_varakin",
+  "version": "1.0.0",
+  "description": "A simple npm package that adds two numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests available\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/your-repo.git"
+  },
+  "keywords": [
+    "sum",
+    "math",
+    "npm",
+    "example"
+  ],
+  "author": "Bonzhik <bonzhik_04@bk.ru>",
+  "license": "MIT"
+}
