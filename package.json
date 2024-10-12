@@ -1,6 +1,6 @@
 {
   "name": "super_puper_calculator_varakin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple npm package that adds two numbers.",
   "main": "index.js",
   "scripts": {
